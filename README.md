@@ -2,7 +2,7 @@
 
 This is a `js` script for simpler and faster teaching evaluation on the [Chaoxing platform of HUST](http://hust.fanya.chaoxing.com).
 
-![image](https://user-images.githubusercontent.com/45505657/180793215-c7c07f02-10d0-4696-886e-78f03196f15b.png)
+![demo](https://user-images.githubusercontent.com/45505657/180793534-3f84bd66-e5ef-4c86-b482-ab8ff4cf7b05.gif)
 
 ## How to use?
 
