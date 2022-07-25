@@ -2,6 +2,8 @@
 
 This is a `js` script for simpler and faster teaching evaluation on the [Chaoxing platform of HUST](http://hust.fanya.chaoxing.com).
 
+![image](https://user-images.githubusercontent.com/45505657/180793215-c7c07f02-10d0-4696-886e-78f03196f15b.png)
+
 ## How to use?
 
 1. Install [tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) in (Google Chrome) and enable it.
