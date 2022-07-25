@@ -9,7 +9,7 @@ This is a `js` script for simpler and faster teaching evaluation on the [Chaoxin
 1. Install [tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) in (Google Chrome) and enable it.
 2. Create a new script and copy the content of the js file to it.
 
-Or you could install it directly from greasyfork
+Or you could install it directly from [greasyfork](https://greasyfork.org/zh-CN/scripts/448443-%E5%8D%8E%E7%A7%91%E8%B6%85%E6%98%9F%E5%BF%AB%E6%8D%B7%E8%AF%84%E6%95%99%E8%84%9A%E6%9C%AC)
 
 Please note that the script checks the **most recommended course / the least satisfied course** if the user clicks **all excellent / all bad**.
 
