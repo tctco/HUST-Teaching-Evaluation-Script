@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  用于快速评教
-// @author       You
+// @author       tctco
 // @match        *://newes.chaoxing.com/newesReception/questionnaireInfo*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
