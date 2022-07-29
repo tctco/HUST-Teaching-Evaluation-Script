@@ -41,7 +41,7 @@ function selectScore(score) { // 科里化
                 radios[42].checked = true;
                 break;
             case '0.4':
-                radios[42].checked = true;
+                radios[41].checked = true;
                 break;
         }
         save(2);
