@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         华科超星快捷评教脚本
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.2
 // @description  用于快速评教
 // @author       tctco
-// @match        *://newes.chaoxing.com/newesReception/questionnaireInfo*
+// @match        *://newes.chaoxing.com/pj/newesReception/questionnaireInfo*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @license      MIT
